@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is JaHui Niu, a student in Computer Science.
+My name is JiaHui Niu, a student in Computer Science.
 
 - 🌱 I’m currently learning cpu/Soc/OS
 - 📫 How to reach me: hui23s@outlook.com
