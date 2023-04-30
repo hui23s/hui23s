@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is JaHui Niu, a student in Computer Science.
+
+- 🌱 I’m currently learning cpu/Soc/OS
+- 📫 How to reach me: hui23s@outlook.com
