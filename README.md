@@ -20,7 +20,7 @@ My name is JiaHui Niu, a student in Computer Science.
 - 🌱 I’m currently learning cpu/Soc/OS
 - 📫 How to reach me: hui23s@outlook.com
 
-![]((https://raw.githubusercontent.com/hui23s/hui23s/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hui23s/hui23s/output/github-contribution-grid-snake.svg)
 
 ![](https://raw.githubusercontent.com/hui23s/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hui23s/github-stats/master/generated/overview.svg#gh-light-mode-only)
